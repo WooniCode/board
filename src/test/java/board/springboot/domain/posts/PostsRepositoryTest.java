@@ -62,6 +62,7 @@ public class PostsRepositoryTest {
     }
 
 
+
     @Test
     public void BaseTimeEntity_등록() {
         //given
