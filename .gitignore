@@ -1,4 +1,20 @@
 # Project exclude paths
 .gradle
 .idea
+.build
 application-oauth.properties
+build/classes/java/main/board/springboot/config/
+build/classes/java/main/board/springboot/domain/user/
+build/generated/
+build/reports/tests/test/classes/board.springboot.domain.posts.PostsRepositoryTest.html
+build/reports/tests/test/classes/board.springboot.web.HelloControllerTest.html
+build/reports/tests/test/classes/board.springboot.web.PostsApiControllerTest.html
+build/reports/tests/test/classes/board.springboot.web.dto.HelloResponseDtoTest.html
+build/reports/tests/test/packages/board.springboot.domain.posts.html
+build/reports/tests/test/packages/board.springboot.web.dto.html
+build/resources/test/
+build/test-results/test/TEST-board.springboot.domain.posts.PostsRepositoryTest.xml
+build/test-results/test/TEST-board.springboot.web.HelloControllerTest.xml
+build/test-results/test/TEST-board.springboot.web.PostsApiControllerTest.xml
+build/test-results/test/TEST-board.springboot.web.dto.HelloResponseDtoTest.xml
+build/tmp/
